@@ -1,3 +1,2 @@
 # RESTful API Project
-This is a simple backend API creation project using Django REST Framework with full admin control
-# Django
+This is a simple backend API creation project using Django REST Framework with full admin contro
